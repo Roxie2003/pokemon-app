@@ -7,3 +7,5 @@ An app that gives Pokemons Info , created for implementing react.js basics
 
 ![image](assets/images/Screenshot%20(1).png)
 
+![image](assets/images/Screenshot%20(2).png)
+
